@@ -1,0 +1,9 @@
+ID<NAME<CLASS<SECTION
+----------------------------------
+123,Asmita,4th,B.
+345,Sunidhi,6th,B.
+566,Shweta,12th,C.
+12,ankita,3rd,b.
+23,Asha,7th,B.
+3,reena,3rd,A.
+6778,Akansha Dubey,7TH,B.

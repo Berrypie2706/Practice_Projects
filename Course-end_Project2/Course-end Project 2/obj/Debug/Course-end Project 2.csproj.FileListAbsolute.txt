@@ -1,0 +1,8 @@
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\bin\Debug\Course-end Project 2.exe.config
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\bin\Debug\Course-end Project 2.exe
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\bin\Debug\Course-end Project 2.pdb
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\obj\Debug\Course-end Project 2.csproj.AssemblyReference.cache
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\obj\Debug\Course-end Project 2.csproj.SuggestedBindingRedirects.cache
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\obj\Debug\Course-end Project 2.csproj.CoreCompileInputs.cache
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\obj\Debug\Course-end Project 2.exe
+D:\Practice Projects\Course-end Project 2\Course-end Project 2\obj\Debug\Course-end Project 2.pdb
